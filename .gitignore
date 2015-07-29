@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+/out/
+*.iml
+gen
+
+### Java template
+*.class
+
+# Package Files #
+*.jar
+
+## File-based project format:
+*.ipr
+*.iws
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
